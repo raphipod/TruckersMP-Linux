@@ -16,4 +16,4 @@ game="/home/testuser/.local/share/Steam/steamapps/common/Euro*Truck*Simulator*2"
 mod=~/.truckersmp
 steamusername=testuser
 
-./truckersmp-cli -e -p -s -g $game  -m $mod -n $steamusername -o $proton -x $prefix
+./truckersmp-cli -e -p -d -s --activate-native-d3dcompiler-47 -g $game  -m $mod -n $steamusername -o $proton -x $prefix
