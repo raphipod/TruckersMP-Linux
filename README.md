@@ -1,6 +1,6 @@
 # TruckersMP-Linux
 
-Two automation shell scripts that work with truckersmp-cli
+Two automation shell scripts for ETS2 & ATS that work with truckersmp-cli
 
 ## How to use?
 
