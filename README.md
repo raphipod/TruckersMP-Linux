@@ -12,3 +12,5 @@ Two automation shell scripts that work with truckersmp-cli
 6. Edit ETS2MP or ATSMP accordingly to your file location, and don't forget to change your steam username. Make it executable.
 7. Then, place this file into the "mp" folder.
 8. Start the script, and enjoy your game!
+
+Only use "install-proton" if you have the native Steam client installed!
