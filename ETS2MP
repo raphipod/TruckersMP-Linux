@@ -1,5 +1,12 @@
 #!/bin/bash
 
+############################################################################################
+# Copyright (C) 2020, Roman Mayer (https://www.youtube.com/channel/UCh8VSOq6cF459y5Yp_4yJbA)
+# refined by: Raphipod, 2021
+############################################################################################
+
+# Note: Edit in the right file paths for the prefix, for proton, the game path, and change the steamusername to yours.
+
 export SteamGameId=227300
 export LD_PRELOAD=:/home/testuser/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so #Steam Overlay
 
