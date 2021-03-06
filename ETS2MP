@@ -1,0 +1,12 @@
+#!/bin/bash
+
+export SteamGameId=227300
+export LD_PRELOAD=:/home/testuser/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so #Steam Overlay
+
+prefix="/home/testuser/.local/share/Steam/steamapps/compatdata/227300/" #Game prefix folder
+proton="/home/testuser/.local/share/Steam/steamapps/common/Proton*4.11" # Steam Proton folder
+game="/home/testuser/.local/share/Steam/steamapps/common/Euro*Truck*Simulator*2" #Game folder
+mod=~/.truckersmp #Mod folder
+steamusername=testuser
+
+./truckersmp-cli -e -p -s -g $game  -m $mod -n $steamusername -o $proton -x $prefix
