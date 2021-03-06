@@ -9,8 +9,6 @@ Two automation shell scripts that work with truckersmp-cli
 3. Download [truckersmp-cli](https://github.com/lhark/truckersmp-cli).
 4. Open the game directory of ETS2/ATS, and create a new folder called "mp"
 5. Unpack truckersmp-cli, and put the contained files into the newly created "mp"-folder (-> */Euro Truck Simulator 2/mp/files*, not /Euro Truck Simulator 2/mp/truckersmp-cli/files)
-6. Edit ETS2MP or ATSMP accordingly to your file location, and don't forget to change your steam username. Make it executable.
-7. Then, place this file into the "mp" folder.
+6. Clone **this** repository, and put the file accordingly to your game into the "mp"-folder 
+7. Edit ETS2MP or ATSMP accordingly to your file's location, and don't forget to change your steam username. Make it executable.
 8. Start the script, and enjoy your game!
-
-Only use "install-proton" if you have the native Steam client installed!
