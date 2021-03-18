@@ -16,4 +16,4 @@ game="/home/testuser/.local/share/Steam/steamapps/common/American*Truck*Simulato
 mod=~/.truckersmp
 steamusername=testuser
 
-./truckersmp-cli -a -p -s -g $game  -m $mod -n $steamusername -o $proton -x $prefix
+./truckersmp-cli -a -p -d -s --activate-native-d3dcompiler-47 -g $game  -m $mod -n $steamusername -o $proton -x $prefix
