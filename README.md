@@ -12,5 +12,5 @@ The release version number is always bound to the one used in [truckersmp-cli](h
 4. Open the game directory of ETS2/ATS, and create a new folder called "mp"
 5. Unpack truckersmp-cli, and put the contained files into the newly created "mp"-folder (-> */Euro Truck Simulator 2/mp/files*, not /Euro Truck Simulator 2/mp/truckersmp-cli/files)
 6. Clone **this** repository or download the script according to your game, and put the file accordingly to your game into the "mp"-folder 
-7. Edit ETS2MP or ATSMP accordingly to your file's location, and don't forget to change your steam username. Make it executable.
+7. Edit ETS2MP or ATSMP accordingly to your game location, and don't forget to change your steam username. Make it executable.
 8. Start the script, and enjoy your game!
