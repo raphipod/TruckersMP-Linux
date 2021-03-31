@@ -2,6 +2,8 @@
 
 Two automation shell scripts for ETS2 & ATS that work with truckersmp-cli
 
+The release version number is always bound to the one used in [truckersmp-cli](https://github.com/lhark/truckersmp-cli).
+
 ## How to use?
 
 1. Download ETS2/ATS in Linux native Steam client with Proton (not the native Linux version!!)
