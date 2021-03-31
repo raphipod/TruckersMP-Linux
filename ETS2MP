@@ -6,6 +6,7 @@
 ############################################################################################
 
 # Note: Edit in the right file paths for the prefix, for proton, the game path, and change the steamusername to yours.
+# Note 2: Spaces in file locations are replaced by asterisks.
 
 export SteamGameId=227300
 export LD_PRELOAD=:/home/testuser/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so
