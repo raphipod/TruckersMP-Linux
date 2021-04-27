@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.50-hotfix2
+Type=Application
+Terminal=true
+Exec=/home/$USER/.local/share/Steam/steamapps/common/Euro*Truck*Simulator*2/mp/ETS2MP
+Name=TruckersMP - ETS2
