@@ -9,11 +9,11 @@
 # Note 2: Spaces in file locations are replaced by asterisks.
 
 export SteamGameId=270880
-export LD_PRELOAD=:/home/testuser/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so
+export LD_PRELOAD=:/home/$USER/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so
 
-prefix="/home/testuser/.local/share/Steam/steamapps/compatdata/270880/"
-proton="/home/testuser/.local/share/Steam/steamapps/common/Proton*4.11"
-game="/home/testuser/.local/share/Steam/steamapps/common/American*Truck*Simulator"
+prefix="/home/$USER/.local/share/Steam/steamapps/compatdata/270880/"
+proton="/home/$USER/.local/share/Steam/steamapps/common/Proton*6.3"
+game="/home/$USER/.local/share/Steam/steamapps/common/American*Truck*Simulator"
 mod=~/.truckersmp
 steamusername=testuser
 

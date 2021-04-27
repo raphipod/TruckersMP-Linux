@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.50-hotfix2
+Type=Application
+Terminal=true
+Exec=/home/$USER/.local/share/Steam/steamapps/common/American*Truck*Simulator/mp/ATSMP
+Name=TruckersMP - ATS
